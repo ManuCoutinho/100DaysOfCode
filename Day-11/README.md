@@ -22,7 +22,7 @@ Aqui temos dois arquivos com exemplos de `reset` para uso no `CSS3`.
 
 <p style="font-size:16px">
 
-O principal objetivo do Normalize é criar uma estilização padrão entre os diversos navegadores que são utilizados. Algumas estilizações padrões dos navegadores que são úteis para o desenvolvimento de páginas são mantidas, alguns bugs comuns entre os navegodes são corrigidos, algumas melhorias de usabilidade e também todo o código do Normalize é comentado e com uma documentação sobre as modificações.
+O principal objetivo do Normalize é criar uma estilização padrão entre os diversos navegadores que são utilizados. Algumas estilizações padrões dos navegadores que são úteis para o desenvolvimento de páginas são mantidas, alguns bugs comuns entre os navegodes são corrigidos e algumas melhorias de usabilidade são implementadas. Todo o código do Normalize é comentado e com uma boa documentação sobre as modificações, que pode ser encontrada <a href="https://necolas.github.io/normalize.css/">[aqui]</a>.
 
 </p>
 
