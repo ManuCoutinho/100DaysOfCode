@@ -1,8 +1,8 @@
 # **Desafio dos 100 dias**
 
-## Em busca criação de bons hábitos e práticas na programação, vamos codar todos os dias!
+## Em busca da criação de bons hábitos e boas práticas na programação, vamos codar todos os dias!
 &nbsp;
-#### <p> _Hey, Devs e Devas!!_ No intuito de formar e fortalecer nosso grupo de estudos, os _TecnoCrias_, iremos iniciar a jornada em busca de desáfios diários pelos próximos **100** dias. #100DiasDeCodigo #100DaysOfCode #TecnoCrias</p>
+#### <p> _Hey, Devs e Devas!!_ No intuito de formar e fortalecer nosso grupo de estudos, os _TecnoCrias_, iremos iniciar a jornada em busca de desafios diários pelos próximos **100** dias. _#100DiasDeCodigo #100DaysOfCode #TecnoCrias_</p>
 &nbsp;
 ### **O nosso _challenge_ será guiado pelos seguintes tópicos:**
 
@@ -30,20 +30,28 @@ Desafios para relembrar e fixar o uso do CSS, juntamente com alguns elementos de
 <div>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-## Semana 4 -5
+## Semana 4 - 7
 Desafios para praticar trabalhar conceitos do Javascript moderno e manipulação do DOM.
 </div>
 
 #
 <div>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style = "margin-right: 16px">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style = "margin-right: 16px">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
-## Semana 6 - 7
-Desafios para praticar a utilização dos frameworks _Bootstrap_, _React.Js_, _Node.Js_ e lógica intermediária.
+## Semana 8
+Desafios para praticar a utilização dos frameworks _Bootstrap_ e _Node.Js_ e lógica intermediária.
 </div>
 
+<div>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style = "margin-right: 16px">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+
+## Semana 9
+
+Desafios para praticar a utilização do  _Sass_ e elevá-los em conjunto com o _Bootstrap_.
+</div>
 
 #
-A partir da __Semana 8__ iremos imergir em pequenos desafios diários que comporão um projeto maior, a ser definido em conjunto pela Comunidade participante.
+A partir da __Semana 10__ iremos imergir em pequenos desafios diários que comporão um projeto maior, a ser definido em conjunto pela Comunidade participante.
+
