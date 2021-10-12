@@ -4,7 +4,7 @@
 &nbsp;
 #### <p> _Hey, Devs e Devas!!_ No intuito de formar e fortalecer nosso grupo de estudos, os _TecnoCrias_, iremos iniciar a jornada em busca de desafios diários pelos próximos **100** dias. _#100DiasDeCodigo #100DaysOfCode #TecnoCrias_</p>
 &nbsp;
-### **O nosso _challenge_ será guiado pelos seguintes tópicos:**
+### **O nosso _challenge_ será guiado dentro da rotina do grupo de estudos, pelos seguintes tópicos:**
 
 
 <div>
@@ -55,3 +55,4 @@ Desafios para praticar a utilização do  _Sass_ e elevá-los em conjunto com o 
 #
 A partir da __Semana 10__ iremos imergir em pequenos desafios diários que comporão um projeto maior, a ser definido em conjunto pela Comunidade participante.
 
+As sugestões dos desafios podem ser vistas [aqui 🔗](https://github.com/ManuCoutinho/100DaysOfCode/blob/main/diario-de-bordo.md)
