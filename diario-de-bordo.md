@@ -68,6 +68,11 @@
 ## Semana 9: Sass
 66. Seria interessante incluir o **Sass** nos nossos projetos. Mas o que é o **Sass** ? É um pré-processador de CSS (*CSS preprocessor*), que nos ajuda enquanto estamos codando. O desafio de hoje vai ser proposto dentro do [[**Sassmeister**](https://www.sassmeister.com/)], uma plataforma que já compila, mostra como seria o CSS básico e renderiza resultado do código em Sass, para quem está praticando é ótimo, pois não tem a necessidade de instalar as dependências no PC, caso queira implementar diretamente em um projeto, fique à vontade. Então vamos lá, para começar, pegue algum código em CSS já feito e tente reescrevê-lo utilizando os recursos de **aninhamento** e **variável** do Sass;
 67. Seguindo com o **Sass**, hoje vamos tentar *interpolar*. Utilize as variáveis criadas para interpolar com outros elementos. A imagem a seguir dá uma ideia bem básica da interpolação de duas variáveis. [https://imgur.com/a/1wBqyHo](https://imgur.com/a/1wBqyHo);
-68. via `npm` instale e gerencie a sua primeira dependência, o Sass, e crie um novo projeto [ [https://nodejs.org/en/](https://nodejs.org/en/)] [[https://www.npmjs.com/package/sass](https://www.npmjs.com/package/sass) ]; 
+68. Atualize o arquivo SCSS que já vem utilizando, com a inclusão de `@mixin` e  `@include` no código; 
+69. Crie mais um arquivo SCSS e separe os seus blocos de código, depois utilize a função `@import` para compartilhar os blocos de código entre os dois arquivos. Ex.: [https://sass-lang.com/documentation/at-rules/import](https://sass-lang.com/documentation/at-rules/import); 
+70. Voltamos ao `for` 🤪! Mas dessa vez consulte a documentação do Sass e implemente o laço `for` no arquivo SCSS. Segue exemplo super básico: [https://bit.ly/3p6KBBf](https://bit.ly/3p6KBBf)
+71. Hoje vamos criar uma `function`  com *Sass* para otimizar a criação de grid CSS, pega a ideia no link a seguir: [https://bit.ly/sassfunction](https://bit.ly/sassfunction) 
+72. Que tal hoje aprendermos mais uma funcionalidade do Sass: `@extends`. Esta funcionalidade permite estender características de um determinado bloco de SCSS para ser utilizado em outro, independetemente do seletor, conforme podemos observar no exemplo a seguir. Como esta *feature* é muito útil a aplicação fica por conta da sua imaginação [https://bit.ly/sassextends](https://bit.ly/sassextends)
+## Semana 10: [...]
 
 ### Continua em breve 😉...
