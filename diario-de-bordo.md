@@ -61,7 +61,7 @@
 59. Faça um dos seus projetos anteriores se tornar completamente responsivo com o uso de media queries e breakpoints;
 60. Instale o Node.Js via terminal, inicie um novo projeto e crie um arquivo `database.js` contendo uma lista de livros (*sugestão*) separadas em objetos, com as seguintes chaves `par : valor {id, nome}`: autor, categoria, quantidade de páginas, leu (`true || false`); 
 61. Dando seguimento ao projeto anterior, um arquivo `app.js` e depois exporte esse módulo `database.js` para seu arquivo JS principal [*Aproveitar para estudar exports e imports em JS*];
-62. Ainda no Node.js, crie um programa no arquivo `app.js` caapza de perguntar ao usuário se deseja buscar um dos livros de sua database, via `readline-sync`;
+62. Ainda no Node.js, crie um programa no arquivo `app.js` capaz de perguntar ao usuário se deseja buscar um dos livros de sua database, via `readline-sync`;
 63. Finalizando o projeto,  implemente uma lógica que seja capaz de escolher um das categoria, testar as respostas inputadas e retornar a busca na tela do terminal via `console.table`;
 64. Crie um campo de texto no HTML que armazena o conteúdo em uma array sempre que você clicar no botão, e apresente em uma lista(`ul`) possibilitando excluir individualmente o item/ `li` pelo evento de click. (Dica: Neste caso podem ser utilizadas várias funções, como p. ex.: `document.getElementById` `document.querySelector` , evento `onclick`, `eventListener`, etc... vale pequisar e usar a criatividade 🤓)
 65. Seguinte, lembra do countdown timer criado no dia **#36**? Que tal criarmos um relógio hoje? (*Dica: a base está no dia #49* ⌚)
