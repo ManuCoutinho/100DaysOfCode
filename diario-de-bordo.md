@@ -73,6 +73,47 @@
 70. Voltamos ao `for` 🤪! Mas dessa vez consulte a documentação do Sass e implemente o laço `for` no arquivo SCSS. Segue exemplo super básico: [https://bit.ly/3p6KBBf](https://bit.ly/3p6KBBf)
 71. Hoje vamos criar uma `function`  com *Sass* para otimizar a criação de grid CSS, pega a ideia no link a seguir: [https://bit.ly/sassfunction](https://bit.ly/sassfunction) 
 72. Que tal hoje aprendermos mais uma funcionalidade do Sass: `@extends`. Esta funcionalidade permite estender características de um determinado bloco de SCSS para ser utilizado em outro, independetemente do seletor, conforme podemos observar no exemplo a seguir. Como esta *feature* é muito útil a aplicação fica por conta da sua imaginação [https://bit.ly/sassextends](https://bit.ly/sassextends)
-## Semana 10: [...]
+73. Práticas atreladas ao CSS Grid com [](https://cssgridgarden.com/)
 
-### Continua em breve 😉...
+## Desafios Semanais - Validação de form 📑
+
+Criar uma aplicação na qual o usuário pode visualizar dois campos (`label`), que serão usados para inserir uma `ID` de usuário e uma senha, junto com os botões `Cancelar` e `Login` abaixo deles. A cor de fundo padrão dos campos de texto deve ser branca. Então: a) O usuário pode inserir uma `ID` de usuário e senha nas caixas de texto, ou seja, entrada que possa receber texto. b) O usuário pode clicar no botão `Login` para validar o `ID`  do usuário e a senha. c) O usuário pode ver uma mensagem de aviso, caso uma ou ambas as caixas de texto estiver vazia e, a cor de fundo da caixa de texto vazia mudará para amarelo claro. d) O usuário pode ver uma mensagem de aviso se o `ID` do usuário não corresponder a `testuser` e a cor de fundo da caixa de texto mudará para vermelho claro. e) O usuário pode ver uma mensagem de aviso se a senha não corresponder a `minha senha` e a cor de fundo da caixa de texto mudará para vermelho claro. f) O usuário pode clicar no botão `Cancelar` para limpar as caixas de texto e redefinir suas cores de fundo para branco. (_este desafio compreende os dias 74 a 80_)
+
+## Git Stats 🐱‍👤
+Partindo do princípio que os aplicativos da Web captam dados de várias maneiras. Seja através da entrada do usuário diretamente na interface, por meio de API’s para sistemas de back-end, de arquivos, de bancos de dados, etc. Vou propor a construção de uma pequena aplicação capaz de captar dados de uma API de terceiro, para que possamos dar um retorno visual ao usuário. O objetivo do aplicativo, que podemos chamar de *GitHub Status*, é apresentar a você uma maneira de extrair informações de outro site, por meio de requisição.
+A ideia central do programa é a seguinte:
+
+- Que receba o nome de um usuário de Github por entrada de usuário;
+- E por meio de requisição para a API do Github ( `https://api.github.com/users/{nome-de-usuario}`) ou  ( `https://api.github.com/users/{nome-de-usuario}/repos`) recupere as informações de usuário.
+- Após filtrar as informações desejadas, transforme o JSON para exibir na interface.
+
+Com essas informações que selecionou, construa uma interface amigável para exibi-las no desktop e/ou mobile.
+Embora esta especificação de aplicativo dependa muito de Javascript, sinta-se à vontade para desenvolvê-la usando sua linguagem de escolha!
+
+Sugestões:
+- O usuário pode ver o status atual das operações do GitHub Git, solicitações de API, problemas operacionais, PRs, painel e projetos, notificações operacionais, aspectos operacionais e páginas operacionais do GitHub como uma lista na janela principal do aplicativo.
+(_este desafio compreende os dias 81 a 87_)
+
+## Weather App ⛈️
+Continuando com o uso de API, vamos sugerir a construção de uma aplicação de verificação do clima, que chamaremos de "Weather App".
+O "Weather App" poderá pegar a temperatura e a condição do clima do dia atual, bem como responder se está dia ou noite em uma determinada cidade, por meio da API [accuweather](https://developer.accuweather.com/)
+
+Interessante se a aplicação pudesse cumprir os seguintes requisitos:
+
+- Aceitar o nome de uma cidade por meio de um `input`
+- Receber submit por meio da tecla enter, retornando as informações de temperatua, condições do clima e uma imagem para o dia ou para noite.
+
+Pode ser um plus o armazenamento em localStorage e/ou a utilização da lib axios se estiver usando JS
+
+(_este desafio compreende os dias 88 a 94_)
+
+## Stopwatch  ⏱️
+Vamos criar um cronômetro. Como já utilizamos funções de marcação de tempo para criar um relógio e um contador, iremos finalizar com um cronômetro, como aqueles de treinador esportivo ⏱️ 
+Recomendável que tenha:
+* um botão de start que inicia o relógio;
+* um botão de stop que para a contagem do relógio;
+* quando o relógio estiver parado um botão que retoma contagem (como se voltasse de uma pausa);
+* e que o usuário pudesse resetar a contagem.
+Aqui vai uma sugestão para implementação: [](https://codepen.io/_Billy_Brown/pen/dbJeh)
+
+(_este desafio compreende os dias 95 a 100_)
