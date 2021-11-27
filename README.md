@@ -53,6 +53,6 @@ Desafios para praticar a utilização do  _Sass_ e elevá-los em conjunto com o 
 </div>
 
 #
-A partir da __Semana 10__ iremos imergir em desafios intermediário e semanais, a ser definido em conjunto pela Comunidade participante.
+A partir da __Semana 10__ iremos imergir em desafios intermediários e semanais, a ser definido em conjunto pela Comunidade participante.
 
 As sugestões dos desafios podem ser vistas [aqui 🔗](https://github.com/ManuCoutinho/100DaysOfCode/blob/main/diario-de-bordo.md)
