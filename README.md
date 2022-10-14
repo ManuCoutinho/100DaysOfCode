@@ -1,10 +1,17 @@
 # **Desafio dos 100 dias**
+[EN](https://github.com/ManuCoutinho/100DaysOfCode/blob/main/README_EN.md)
+<br/>
+Especialmente durante a Hacktoberfest, este repositório estará recebendo contribuições da comunidade como forma de incentivo aos projetos _open source_. Por ser um projeto amigável aos iniciantes, pode ser a sua porta de entrada para o mundo das contribuições.
 
-## Em busca da criação de bons hábitos e boas práticas na programação, vamos codar todos os dias!
+![image](https://github.com/ManuCoutinho/100DaysOfCode/blob/main/hacktoberfest_logo.png)
+
+#
+ Em busca da criação de bons hábitos e boas práticas na programação, vamos codar todos os dias!
 &nbsp;
 #### <p> _Hey, Devs e Devas!!_ No intuito de formar e fortalecer nosso grupo de estudos, os _TecnoCrias_, iremos iniciar a jornada em busca de desafios diários pelos próximos **100** dias. _#100DiasDeCodigo #100DaysOfCode #TecnoCrias_</p>
 &nbsp;
-### **O nosso _challenge_ será guiado dentro da rotina do grupo de estudos, pelos seguintes tópicos:**
+##### **O nosso _challenge_ será guiado dentro da rotina do grupo de estudos, pelos seguintes tópicos:**
+
 
 
 <div>
@@ -55,4 +62,6 @@ Desafios para praticar a utilização do  _Sass_ e elevá-los em conjunto com o 
 #
 A partir da __Semana 10__ iremos imergir em desafios intermediários e semanais, a ser definido em conjunto pela Comunidade participante.
 
-As sugestões dos desafios podem ser vistas [aqui 🔗](https://github.com/ManuCoutinho/100DaysOfCode/blob/main/diario-de-bordo.md)
+__As sugestões dos desafios podem ser vistas [aqui 🔗](https://github.com/ManuCoutinho/100DaysOfCode/blob/main/diario-de-bordo.md)__
+
+#### 🤓 Contribuições são bem vindas, confira como fazer [aqui 🔗](https://github.com/ManuCoutinho/100DaysOfCode/blob/main/CONTRIBUTING.md)
