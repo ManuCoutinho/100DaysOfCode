@@ -1,7 +1,9 @@
 ![image](https://github.com/ManuCoutinho/100DaysOfCode/blob/main/hacktoberfest_logo.png)
 # Hacktoberfest 2022
-<br/>
+
 [EN](/translate/HACKTOBERFEST_GUIDE_EN.md)
+
+
 ## Começando
 
 Confira [Contribution](https://github.com/ManuCoutinho/100DaysOfCode/blob/9ebf6125dd01ce503c3b3da5f5ac8459114688cc/CONTRIBUTING.md) Guia de Contribuição.
