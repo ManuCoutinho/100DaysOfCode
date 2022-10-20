@@ -1,9 +1,9 @@
 ## Semana 1 - 2: Git && HTML
-1. Crie um repositório público no seu Github com o seguinte nome `100-days-of-code` e adicione `readme` com o manifesto do nosso desafio [ AQUI ](https://github.com/ManuCoutinho/100DaysOfCode/blob/main/README.md)] em markdown;
+1. Crie um repositório público no seu Github com o seguinte nome `100-days-of-code` e adicione `readme` com o manifesto do nosso desafio [ AQUI ](https://github.com/ManuCoutinho/100DaysOfCode/blob/main/README.md) em markdown;
 2. Estruture uma página web no padrão HTML5, contendo as seguintes tags: `header`, `footer`, `main section`, `nav`. Os conteúdos podem ser fictícios; uso do CSS é opcional. Fique à vontade caso queira evoluir; 
 3. Faça o  `commit` e  `push` do seu primeiro challenge no seu repositório do desafio utilizando um terminal;
 4. Crie uma segunda `branch` no seu repositório e mova um dos seus `commit` para a nova branch utilizando o terminal;
-5. Estruture uma página web no padrão HTML5, contendo no mínimo 5 elementos HTML. Para compreender um pouco mais sobre elementos, pode ser consultada a documentação em: [ [MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element) ];
+5. Estruture uma página web no padrão HTML5, contendo no mínimo 5 elementos HTML. Para compreender um pouco mais sobre elementos, pode ser consultada a documentação em: **[MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)**;
 6. Com o comando `rebase` , retorne um ou todos os seus projetos para a `branch`  original, via terminal (vamos relembrar os comandinhos do git pessoal);
 7. Estruture uma página web no padrão HTML5 contendo um formulário com no mínimo 5 campos, utilizando as tags semânticas: `field`, `legend`, `aria-label`, `type` e `for`; 
 8. Estruture uma página web no padrão HTML5, contendo uma lista não ordenada com ao menos 5 elementos e um `button` com a função `link` para outra página;
