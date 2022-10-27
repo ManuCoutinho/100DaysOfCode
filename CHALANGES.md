@@ -1,4 +1,4 @@
-## Semana 1 - 2: Git && HTML
+## Semana 1 - 2: Git & HTML
 1. Crie um repositório público no seu Github com o seguinte nome `100-days-of-code` e adicione `readme` com o manifesto do nosso desafio [ AQUI ](https://github.com/ManuCoutinho/100DaysOfCode/blob/main/README.md) em markdown;
 2. Estruture uma página web no padrão HTML5, contendo as seguintes tags: `header`, `footer`, `main section`, `nav`. Os conteúdos podem ser fictícios; uso do CSS é opcional. Fique à vontade caso queira evoluir; 
 3. Faça o  `commit` e  `push` do seu primeiro challenge no seu repositório do desafio utilizando um terminal;
@@ -11,7 +11,7 @@
 10. Estruture uma página HTML5 embutindo uma playlist de vídeo ou áudio (sugestão: Youtube/Spotify); 
 11. Estruture uma página web no padrão HTML5 contendo uma galeria com ao menos 8 imagens, contendo as seguintes tags semânticas: `figure`, `figcaption` , `aria-LabeLLedby` e `alt`. *Aqui vale estudar a importânicia na utilização dessas tags para acessibilidade*;
 12. Escolha um repositório, ao seu critério, e `clone` para o seu repositório via terminal *[voltamos para Git]*;
-13. Crie um arquivo de reset de `CSS` e link a uma página HTML5;
+13. Crie um arquivo de reset de `CSS` e aplique via link a uma página HTML5. _Lembre-se de utilizar os atributos `HTML` corretos na hora de identificar um link contento arquivo de `CSS`_;
 14. Crie uma página web no padrão HTML5 e estilize-a com um arquivo CSS3;
 ## Semana 3: CSS3
 15. Crie uma `navbar` e estilize utilizando os seguintes elementos CSS: float (não esqueça de limpar o float com o `clear`);
